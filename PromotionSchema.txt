@@ -1,0 +1,26 @@
+[
+   {
+      "description":"Promotion2016",
+      "name":"Promotion2016",
+      "type":"STRING",
+      "mode":"NULLABLE"
+   },
+   {
+      "description":"Promotion2017",
+      "name":"Promotion2017",
+      "type":"STRING",
+      "mode":"NULLABLE"
+   },
+   {
+      "description":"Product_id",
+      "name":"product_id",
+      "type":"STRING",
+      "mode":"REQUIRED"
+   },
+   {
+      "description":"Product_price",
+      "name":"product_price",
+      "type":"FLOAT",
+      "mode":"NULLABLE"
+   }
+]
